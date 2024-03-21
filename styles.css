@@ -300,7 +300,7 @@ body {
     display : none;
 }
 
-@media only screen and (max-device-width : 375px){
+@media (max-width : 375px){
     .frame, .topNavBar {
         display : block;
         z-index : 2;
